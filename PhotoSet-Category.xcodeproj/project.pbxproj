@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CF377EF21E40AA430019110C /* Lothar+PhotoSet.m in Sources */ = {isa = PBXBuildFile; fileRef = CF377EF11E40AA430019110C /* Lothar+PhotoSet.m */; };
 		CFD05A821E3AD0B500A76B72 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CFD05A811E3AD0B500A76B72 /* main.m */; };
 		CFD05A851E3AD0B500A76B72 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CFD05A841E3AD0B500A76B72 /* AppDelegate.m */; };
 		CFD05A881E3AD0B500A76B72 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CFD05A871E3AD0B500A76B72 /* ViewController.m */; };
@@ -19,6 +20,8 @@
 /* Begin PBXFileReference section */
 		2D8EE3706E96587B865289EA /* libPods-PhotoSet-Category.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-PhotoSet-Category.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D61F3C2AB7390DB1C229D21 /* Pods-PhotoSet-Category.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PhotoSet-Category.release.xcconfig"; path = "Pods/Target Support Files/Pods-PhotoSet-Category/Pods-PhotoSet-Category.release.xcconfig"; sourceTree = "<group>"; };
+		CF377EF01E40AA430019110C /* Lothar+PhotoSet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Lothar+PhotoSet.h"; sourceTree = "<group>"; };
+		CF377EF11E40AA430019110C /* Lothar+PhotoSet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Lothar+PhotoSet.m"; sourceTree = "<group>"; };
 		CFD05A7D1E3AD0B500A76B72 /* PhotoSet-Category.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "PhotoSet-Category.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFD05A811E3AD0B500A76B72 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		CFD05A831E3AD0B500A76B72 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -64,6 +67,8 @@
 		CF4DCC2D1E3AFCA400FDE632 /* PhotoSet-Category */ = {
 			isa = PBXGroup;
 			children = (
+				CF377EF01E40AA430019110C /* Lothar+PhotoSet.h */,
+				CF377EF11E40AA430019110C /* Lothar+PhotoSet.m */,
 			);
 			path = "PhotoSet-Category";
 			sourceTree = "<group>";
@@ -236,6 +241,7 @@
 				CFD05A881E3AD0B500A76B72 /* ViewController.m in Sources */,
 				CFD05A851E3AD0B500A76B72 /* AppDelegate.m in Sources */,
 				CFD05A821E3AD0B500A76B72 /* main.m in Sources */,
+				CF377EF21E40AA430019110C /* Lothar+PhotoSet.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
