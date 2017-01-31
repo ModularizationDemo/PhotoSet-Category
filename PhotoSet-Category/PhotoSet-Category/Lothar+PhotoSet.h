@@ -10,7 +10,7 @@
 
 @interface Lothar (PhotoSet)
 - (nullable UIViewController *)PhotoSet_aViewController:(nonnull NSString *)photosetID
-                                           replyCount:(NSNumber *)replyCount
-                                              boardid:(NSString *)boardid
-                                                docid:(NSString *)docid;
+                                             replyCount:(nonnull NSNumber *)replyCount
+                                                boardid:(nonnull NSString *)boardid
+                                                  docid:(nonnull NSString *)docid;
 @end
