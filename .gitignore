@@ -1,0 +1,7 @@
+PhotoSet-Category.xcodeproj/xcuserdata/
+PhotoSet-Category.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+PhotoSet-Category.xcodeproj/project.xcworkspace/xcuserdata/
